@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Storepass Buylist Price Adjuster",
-  "version": "1.0.0",
-  "description": "Scales every card's buy price on a Storepass buylist submission by the same percentage so the total matches what you actually paid.",
+  "version": "2.0.0",
+  "description": "Scales every card's cash or credit price on a Storepass buylist by the same percentage so the total matches what you actually paid.",
   "permissions": ["storage"],
   "content_scripts": [
     {
